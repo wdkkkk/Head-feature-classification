@@ -1,0 +1,8 @@
+{
+    "model": "resnet34",
+    "checkpoint": "output/resnet34/run_20231222-112830/pth/model_epoch_19.pth",
+    "data_dir": "data_face_imgs",
+    "batch_size": 32,
+    "task": "all",
+    "seed": 0
+}

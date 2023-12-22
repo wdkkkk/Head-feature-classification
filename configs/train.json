@@ -1,0 +1,8 @@
+{
+    "epochs": 20,
+    "batch_size": 128,
+    "data_dir": "./data_face_imgs",
+    "output_dir": "output",
+    "model": "resnet34",
+    "learning_rate": 0.05
+}
